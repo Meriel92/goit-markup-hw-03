@@ -106,7 +106,6 @@ body {
 /*-----------------Header-----------------*/
 
 .header {
-  background-color: var(--primary-fon-footer-color);
   padding-top: 24px;
   padding-bottom: 25px;
 }
