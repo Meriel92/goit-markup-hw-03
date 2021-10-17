@@ -235,8 +235,8 @@ body {
 
 .hero-btn:hover,
 .hero-btn:focus {
-  background-color: var(--accent-color);
-  color: var(--white);
+  background-color: var(--white);
+  color: var(--accent-color);
 }
 
 /*-----------------About-----------------*/
@@ -406,9 +406,11 @@ body {
 }
 
 /* ----------------Menu-nav-------------------- */
+
 .menu-nav-list {
   display: flex;
   flex-wrap: wrap;
+  padding-bottom: 94px;
   margin-left: -30px;
   margin-top: -30px;
 }
